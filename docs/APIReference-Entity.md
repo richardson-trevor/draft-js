@@ -3,7 +3,7 @@ id: api-reference-entity
 title: Entity
 layout: docs
 category: API Reference
-next: api-reference-selection-state
+next: api-reference-draft-entity-mutability
 permalink: docs/api-reference-entity.html
 ---
 
